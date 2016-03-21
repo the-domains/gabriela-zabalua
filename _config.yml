@@ -1,0 +1,28 @@
+name: Gabriela Zabalúa
+favicon: null
+layout_spectrum: 0.6061689397320151
+typography_spectrum: 0.07519625965505838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9382517754565924
+  lightness: 0.6263717641122639
+  saturation: 0.49345045955851674
+  rhythmicContrast: 0.8724580535199493
+purpose: []
